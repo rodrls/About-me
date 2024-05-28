@@ -1,6 +1,5 @@
 # Hello World 🤙
-
-#### diretorio criado para compartilhar algumas de minhas informações. 🙂  
+diretorio criado para compartilhar algumas de minhas informações. 🙂  
 <br>
 
 ## **Rodrigo Lopes dos Santos, 27 anos**
