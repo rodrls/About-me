@@ -25,7 +25,7 @@ Desenvolvimento Blockchain com Solidity             <img src="https://github.com
 
 jan de 2022 - ate hoje
 
-Analisar processos/regras de negocio e prestar suporte ao usuario no sistema ERP *Control*.
+Analisar processos/regras de negocio e prestar suporte ao usuario no sistema ERP *Control*.<br>
 Registrar procedimentos e atender ao SLA
 <br><br>
 ##
