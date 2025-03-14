@@ -5,6 +5,7 @@ diretorio criado para compartilhar algumas de minhas informações. 🙂
 ## **Rodrigo Lopes dos Santos, 28 anos**
 **São Paulo, SP**
 ## Formações :
+### Engenharia de Software - Anhanguera (3 anos) (cursando)
 ### Ciencia da computação - Unip (4 anos - BACHAREL)
 ### Analise e Desenvolvimento de Sistemas (ADS) - Colégio Sir Isaac Newton (3 anos - Técnologo)
 ### Ingles avançado  (Cultura Inglesa - 4 anos)
