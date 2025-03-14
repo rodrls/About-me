@@ -2,7 +2,7 @@
 diretorio criado para compartilhar algumas de minhas informações. 🙂  
 <br>
 
-## **Rodrigo Lopes dos Santos, 27 anos**
+## **Rodrigo Lopes dos Santos, 28 anos**
 **São Paulo, SP**
 ## Formações :
 ### Ciencia da computação - Unip (4 anos - BACHAREL)
