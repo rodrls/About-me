@@ -15,7 +15,7 @@ diretorio criado para compartilhar algumas de minhas informações. 🙂
 
 ### Atual: Analista de Sistemas ERP em **LinkedBy**
 
-jan de 2022 - ate hoje · 2 anos 5 meses
+jan de 2022 - ate hoje
 
 Analisar processos/regras de negocio e prestar suporte ao usuario no sistema ERP "Control".
   
